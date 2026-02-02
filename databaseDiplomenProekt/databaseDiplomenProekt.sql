@@ -1,0 +1,1 @@
+SELECT * FROM meal_planner.meals;
